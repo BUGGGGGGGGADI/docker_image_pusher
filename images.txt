@@ -8,3 +8,4 @@ xhofe/alist:latest
 stilleshan/frps:latest
 stilleshan/frpc:latest
 jxxghp/moviepilot:latest
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
