@@ -10,3 +10,5 @@ stilleshan/frpc:latest
 jxxghp/moviepilot:latest
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
 nginx:1.23
+memcached
+consul
